@@ -155,7 +155,7 @@ new WOW().init();
                     <div class="about-unlockR-head">Unlock Your Potential Today!</div>
                     <p>Enroll in our business training today and gain the skills you need to succeed. Take your career to the next level with expert guidance and practical knowledge.</p>
                     <div class="secondary-button">
-                        <a href=""><button>GET STARTED <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                        <a href="contact"><button>GET STARTED <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                     </div>
                 </div>
             </div>

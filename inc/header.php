@@ -34,7 +34,10 @@
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto">
-      <li class="nav-item dropdown dropdownLL">
+      <li class="nav-item">
+        <a class="nav-link" href="./">HOME</a>
+      </li>
+      <!-- <li class="nav-item dropdown dropdownLL">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         PROGRAMS
         </a>
@@ -50,7 +53,7 @@
           <a class="dropdown-item" href="#">PROCUREMENT & CONTRACT MANAGEMENT</a>
           <a class="dropdown-item" href="#">LEADERSHIP & CHANGE MANAGEMENT</a>
         </div>
-      </li>
+      </li> -->
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         ABOUT
@@ -58,15 +61,14 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="our-company">Our Company</a>
           <a class="dropdown-item" href="our-faculty">Our Faculty</a>
-          <a class="dropdown-item" href="faq">FAQS</a>
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="gallery">GALLERY</a>
+        <a class="nav-link" href="faq">FAQS</a>
       </li>
-      <li class="nav-item">
+      <!-- <li class="nav-item">
         <a class="nav-link" href="insights">INSIGHTS</a>
-      </li>
+      </li> -->
       <li class="nav-item">
         <a class="nav-link" href="contact">CONTACT</a>
       </li>

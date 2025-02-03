@@ -69,7 +69,7 @@ new WOW().init();
 <div class="container">
     <div class="contactNav">
         <div class="row">
-            <div class="col-md-4">
+            <!-- <div class="col-md-4">
                 <div class="contactNav-row">
                     <div class="contactNav-row1">
                         <img src="./dist/images/contact-icon1.png" class="img-fluid">
@@ -78,8 +78,8 @@ new WOW().init();
                         One Lyric Square, Hammersmith, London W6 0NB
                     </div>
                 </div>
-            </div>
-            <div class="col-md-4">
+            </div> -->
+            <div class="col-md-6">
                 <div class="contactNav-row">
                     <div class="contactNav-row1">
                         <img src="./dist/images/contact-icon2.png" class="img-fluid">
@@ -89,7 +89,7 @@ new WOW().init();
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="contactNav-row">
                     <div class="contactNav-row1">
                         <img src="./dist/images/contact-icon3.png" class="img-fluid">
@@ -111,9 +111,9 @@ new WOW().init();
                     <div class="contactForm_left-head">Get In Touch</div>
                     <p>Ready to elevate your team's performance and enhance your learning experience?</p>
                     <p>Get in touch with Emece Solutions today! Whether you have questions about our training programs or need a customized learning solution, our team is here to help.</p>
-                    <div class="contactForm-map">
+                    <!-- <div class="contactForm-map">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2954.082804898811!2d-0.22901459284979214!3d51.49344269466853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760f88f751e07b%3A0x7d868abadfb24386!2sFora%20-%20One%20Lyric%20Square!5e0!3m2!1sen!2sng!4v1738552668047!5m2!1sen!2sng" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-md-6">

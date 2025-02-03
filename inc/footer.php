@@ -18,21 +18,21 @@
             <div class="col-md-3 footer-row1">
                 <h5>Top courses</h5>
                 <ul>
-                    <li><a href="strategic-management">Strategic Management</a></li>
-                    <li><a href="#">Corporate Governance</a></li>
-                    <li><a href="#">Operations Management</a></li>
-                    <li><a href="#">Management Skills</a></li>
-                    <li><a href="#">Quality Management</a></li>
+                    <li><a href="contact">Strategic Management</a></li>
+                    <li><a href="contact">Corporate Governance</a></li>
+                    <li><a href="contact">Operations Management</a></li>
+                    <li><a href="contact">Management Skills</a></li>
+                    <li><a href="contact">Quality Management</a></li>
                 </ul>
             </div>
             <div class="col-md-3 footer-row2">
                 <h5>Contact</h5>
-                <div class="footer-contact">
+                <!-- <div class="footer-contact">
                     <div class="footer-contact1">
                         <img src="./dist/images/fa-location.png" class="img-fluid">
                     </div>
                     <div class="footer-contact2">One Lyric Square, Hammersmith, London W6 0NB</div>
-                </div>
+                </div> -->
                 <div class="footer-contact">
                     <div class="footer-contact1">
                         <img src="./dist/images/fa-phone.png" class="img-fluid">
@@ -45,8 +45,8 @@
                     </div>
                     <div class="footer-contact2">contact@ESL.co.uk</div>
                 </div>
-                <div class="footer-contact-sub">Accreditation</div>
-                <img src="./dist/images/footer-img.png" class="img-fluid">
+                <!-- <div class="footer-contact-sub">Accreditation</div>
+                <img src="./dist/images/footer-img.png" class="img-fluid"> -->
             </div>
             <div class="col-md-3 footer-row3">
                 <h5>Newsletter</h5>

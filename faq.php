@@ -78,12 +78,12 @@ new WOW().init();
                         <div class="panel-heading" role="tab" id="headingOne">
                             <h4 class="panel-title">
                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                How is the training delivered?
+                                What services does Emece Solutions Limited offer?
                                 </a>
                             </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                            <div class="panel-body">Lorem ipsum dolor sit amet consectetur. Ut in et lectus etiam mattis dolor. Turpis dictumst tellus egestas eget pulvinar dui lectus egestas. Viverra sit vivamus sit urna pharetra tincidunt in. Tempus odio blandit aliquam 
+                            <div class="panel-body">We provide transformational learning, peak performance solutions, and comprehensive training programs designed to enhance human capacity development.
                         </div>
                     </div>                    
                 </div>  
@@ -92,12 +92,12 @@ new WOW().init();
                         <div class="panel-heading" role="tab" id="headingOne1">
                             <h4 class="panel-title">
                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne1" aria-expanded="true" aria-controls="collapseOne">
-                                How is the training delivered?
+                                Who can benefit from your training programs?
                                 </a>
                             </h4>
                         </div>
                         <div id="collapseOne1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne1">
-                            <div class="panel-body">Lorem ipsum dolor sit amet consectetur. Ut in et lectus etiam mattis dolor. Turpis dictumst tellus egestas eget pulvinar dui lectus egestas. Viverra sit vivamus sit urna pharetra tincidunt in. Tempus odio blandit aliquam 
+                            <div class="panel-body">Our training solutions are tailored for individuals, corporate organizations, and institutions seeking to improve skills, productivity, and overall performance.
                         </div>
                     </div>                    
                 </div> 
@@ -106,12 +106,12 @@ new WOW().init();
                         <div class="panel-heading" role="tab" id="headingOne2">
                             <h4 class="panel-title">
                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne2" aria-expanded="true" aria-controls="collapseOne">
-                                How is the training delivered?
+                                Do you offer customized training programs?
                                 </a>
                             </h4>
                         </div>
                         <div id="collapseOne2" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne2">
-                            <div class="panel-body">Lorem ipsum dolor sit amet consectetur. Ut in et lectus etiam mattis dolor. Turpis dictumst tellus egestas eget pulvinar dui lectus egestas. Viverra sit vivamus sit urna pharetra tincidunt in. Tempus odio blandit aliquam 
+                            <div class="panel-body">Yes, we design bespoke training solutions to meet the specific needs and goals of your organization or team. 
                         </div>
                     </div>                    
                 </div> 
@@ -120,12 +120,12 @@ new WOW().init();
                         <div class="panel-heading" role="tab" id="headingOne3">
                             <h4 class="panel-title">
                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne3" aria-expanded="true" aria-controls="collapseOne">
-                                How is the training delivered?
+                                How can I enroll in a training program?
                                 </a>
                             </h4>
                         </div>
                         <div id="collapseOne3" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne3">
-                            <div class="panel-body">Lorem ipsum dolor sit amet consectetur. Ut in et lectus etiam mattis dolor. Turpis dictumst tellus egestas eget pulvinar dui lectus egestas. Viverra sit vivamus sit urna pharetra tincidunt in. Tempus odio blandit aliquam 
+                            <div class="panel-body"> You can register for our programs by contacting us through our website, email, or phone. Our team will guide you through the process. 
                         </div>
                     </div>                    
                 </div> 
@@ -134,16 +134,16 @@ new WOW().init();
                         <div class="panel-heading" role="tab" id="headingOne4">
                             <h4 class="panel-title">
                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne4" aria-expanded="true" aria-controls="collapseOne">
-                                How is the training delivered?
+                                Where are your training sessions held?
                                 </a>
                             </h4>
                         </div>
                         <div id="collapseOne4" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne4">
-                            <div class="panel-body">Lorem ipsum dolor sit amet consectetur. Ut in et lectus etiam mattis dolor. Turpis dictumst tellus egestas eget pulvinar dui lectus egestas. Viverra sit vivamus sit urna pharetra tincidunt in. Tempus odio blandit aliquam 
+                            <div class="panel-body">We offer both in-person and virtual training sessions, depending on your preference and location. Specific details will be provided upon registration.
                         </div>
                     </div>                    
                 </div> 
-                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                <!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                     <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingOne5">
                             <h4 class="panel-title">
@@ -156,7 +156,7 @@ new WOW().init();
                             <div class="panel-body">Lorem ipsum dolor sit amet consectetur. Ut in et lectus etiam mattis dolor. Turpis dictumst tellus egestas eget pulvinar dui lectus egestas. Viverra sit vivamus sit urna pharetra tincidunt in. Tempus odio blandit aliquam 
                         </div>
                     </div>                    
-                </div> 
+                </div>  -->
             </div>
         </div>
     </div>

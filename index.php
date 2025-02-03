@@ -65,7 +65,7 @@ new WOW().init();
                             <div class="col-md-7">
                                 <div class="banner-head">600 Management Courses in 16 subject categories ranging from 1-day to 11-weeks in duration.</div>
                                 <div class="primary-button">
-                                    <a href=""><button>Browse ESL’s Open Courses <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                                    <a href="contact"><button>Browse ESL’s Open Courses <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                                 </div>
                             </div>
                         </div>
@@ -79,7 +79,7 @@ new WOW().init();
                             <div class="col-md-7">
                                 <div class="banner-head">Seventy-six (76) LIVE Online Management Courses each lasting 90-minutes.</div>
                                 <div class="primary-button">
-                                    <a href=""><button>Check out the entire range <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                                    <a href="contact"><button>Check out the entire range <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                                 </div>
                             </div>
                         </div>
@@ -93,7 +93,7 @@ new WOW().init();
                             <div class="col-md-7">
                                 <div class="banner-head">A tailor-made management training solution designed and delivered specific to your needs.</div>
                                 <div class="primary-button">
-                                    <a href=""><button>Find out more about our Bespoke Training service <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                                    <a href="contact"><button>Find out more about our Bespoke Training service <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                                 </div>
                             </div>
                         </div>
@@ -107,7 +107,7 @@ new WOW().init();
                             <div class="col-md-7">
                                 <div class="banner-head">One-on-one Coaching support from an experienced Business Expert over an extended period.</div>
                                 <div class="primary-button">
-                                    <a href=""><button>Enquire about ESL’s Executive Coaching <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                                    <a href="contact"><button>Enquire about ESL’s Executive Coaching <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                                 </div>
                             </div>
                         </div>
@@ -117,19 +117,6 @@ new WOW().init();
         </div>
     </div>
 </div>
-
-<!-- <div class="banner">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <div class="banner-head">600 Management Courses in 16 subject categories ranging from 1-day to 11-weeks in duration.</div>
-                <div class="primary-button">
-                    <a href=""><button>Browse ESL’s Open Courses <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div> -->
 
 <div class="container">
     <div class="home-about">
@@ -146,7 +133,7 @@ new WOW().init();
 
                     <p>Our courses are expert-led and designed for effective solutions to your business challenges. Emece Solutions also has the capacity to deliver training and customized on the job solutions that suit your organisation at various locations in Nigeria and across the world. We serve numerous markets worldwide including the Middle East, Africa, Europe and Far East Asia.</p> <br>
                     <div class="secondary-button">
-                        <a href=""><button>LET'S GET STARTED <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                        <a href="contact"><button>LET'S GET STARTED <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                     </div>
                 </div>
             </div>
@@ -162,7 +149,7 @@ new WOW().init();
                     <div class="clientele-left-head">Our Clientele</div>
                     <p>Emece Solutions Limited has established itself as the service provider of choice for hundreds of such organizations all over the world seeking sustainable solutions to their management challenges.</p>  
                     <div class="secondary-button">
-                        <a href=""><button>EXPLORE OUR CLIENT PROFILE <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                        <a href="contact"><button>EXPLORE OUR CLIENT PROFILE <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                     </div>  
                 </div>
             </div>
@@ -185,154 +172,110 @@ new WOW().init();
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img1.png" class="img-fluid">
-                        <div class="home-empowering-row-courses">
-                            <div class="home-empowering-row-courses-head">11</div>
-                            <div class="home-empowering-row-courses-sub">COURSES</div>
-                        </div>
                     </div>
                     <div class="home-empowering-row-head">Strategic Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="strategic-management">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img2.png" class="img-fluid">
-                        <div class="home-empowering-row-courses">
-                            <div class="home-empowering-row-courses-head">19</div>
-                            <div class="home-empowering-row-courses-sub">COURSES</div>
-                        </div>
                     </div>
                     <div class="home-empowering-row-head">Corporate Governance</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img3.png" class="img-fluid">
-                        <div class="home-empowering-row-courses">
-                            <div class="home-empowering-row-courses-head">19</div>
-                            <div class="home-empowering-row-courses-sub">COURSES</div>
-                        </div>
                     </div>
                     <div class="home-empowering-row-head">Sustainability</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img1.png" class="img-fluid">
-                        <div class="home-empowering-row-courses">
-                            <div class="home-empowering-row-courses-head">25</div>
-                            <div class="home-empowering-row-courses-sub">COURSES</div>
-                        </div>
                     </div>
                     <div class="home-empowering-row-head">Quality Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img2.png" class="img-fluid">
-                        <div class="home-empowering-row-courses">
-                            <div class="home-empowering-row-courses-head">44</div>
-                            <div class="home-empowering-row-courses-sub">COURSES</div>
-                        </div>
                     </div>
                     <div class="home-empowering-row-head">Management Skills</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img3.png" class="img-fluid">
-                        <div class="home-empowering-row-courses">
-                            <div class="home-empowering-row-courses-head">12</div>
-                            <div class="home-empowering-row-courses-sub">COURSES</div>
-                        </div>
                     </div>
                     <div class="home-empowering-row-head">Operations Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img1.png" class="img-fluid">
-                        <div class="home-empowering-row-courses">
-                            <div class="home-empowering-row-courses-head">11</div>
-                            <div class="home-empowering-row-courses-sub">COURSES</div>
-                        </div>
                     </div>
                     <div class="home-empowering-row-head">Procurement and Contract Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img2.png" class="img-fluid">
-                        <div class="home-empowering-row-courses">
-                            <div class="home-empowering-row-courses-head">19</div>
-                            <div class="home-empowering-row-courses-sub">COURSES</div>
-                        </div>
                     </div>
                     <div class="home-empowering-row-head">Leadership and Change management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img3.png" class="img-fluid">
-                        <div class="home-empowering-row-courses">
-                            <div class="home-empowering-row-courses-head">31</div>
-                            <div class="home-empowering-row-courses-sub">COURSES</div>
-                        </div>
+                        <img src="./dist/images/emp-img3.png" class="img-fluid">                        
                     </div>
                     <div class="home-empowering-row-head">Hospitality and Retail Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img1.png" class="img-fluid">
-                        <div class="home-empowering-row-courses">
-                            <div class="home-empowering-row-courses-head">87</div>
-                            <div class="home-empowering-row-courses-sub">COURSES</div>
-                        </div>
                     </div>
                     <div class="home-empowering-row-head">Project and Programme Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img2.png" class="img-fluid">
-                        <div class="home-empowering-row-courses">
-                            <div class="home-empowering-row-courses-head">36</div>
-                            <div class="home-empowering-row-courses-sub">COURSES</div>
-                        </div>
                     </div>
                     <div class="home-empowering-row-head">Secretaries and Administrative Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
         </div>
@@ -346,7 +289,7 @@ new WOW().init();
                 <div class="home-provide-head">We provide services to keep you ahead in a competitive market.</div>
                 <p>Emece Solutions Limited services are delivered by practising Business and Management Consultants possessing extensive experience in their respective areas of expertise. Our consultants will take the time to develop a sound understanding of your development needs, and the service delivery will accordingly be customized to address your specific learning objectives.</p>
                 <div class="secondary-button">
-                    <a href=""><button>ESL COMPANY PROFILE <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                    <a href="contact"><button>ESL COMPANY PROFILE <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                 </div>
             </div>
         </div>
@@ -358,21 +301,23 @@ new WOW().init();
 
 <div class="delegate">
     <div class="container">
-        <div class="delegate-head">What do our delegates say?</div>
+        <div class="delegate-head">What people are saying about us</div>
         <div class="row">
             <div class="col-md-4">
                 <div class="delegate-row">
-                    <img src="./dist/images/delegate-img.png" class="img-fluid">
+                Working with you has been an incredible journey of growth. Your guidance, challenges, and support have shaped my mindset and approach to work.
+                Your commitment to coaching has taught me to embrace uncertainty, become a better listener, and collaborate more effectively. Through our conversations, I’ve learned to leverage others' knowledge, making me a stronger team player and leader.
+                Thanks for helping me discover my authentic work-self—I now bring her to work and let her thrive. Grateful for your invaluable influence!
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="delegate-row">
-                    <img src="./dist/images/delegate-img.png" class="img-fluid">
+                After 3 years of being in the fitness industry as a personal trainer, i found my business struggling with business ideas and plan. Having spoken to lola she decided to help me make few changes which have helped my business massively with growth and success. I will highly recommend lola's services to anyone who's looking to succeed in their business field. She's highly knowledgeable, dedicated to committed her time to support her clients. Thank you lola for your tremendous support and taking my business to the next level. I couldn't have done it without your guidance.
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="delegate-row">
-                    <img src="./dist/images/delegate-img.png" class="img-fluid">
+                Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
                 </div>
             </div>
         </div>
@@ -441,7 +386,7 @@ new WOW().init();
    })(jQuery);
 </script>
 
-<div class="container">
+<!-- <div class="container">
     <div class="home-insight-row">
         <div class="home-insight-row-head">Our Latest Articles</div>
         <p>For the latest insights into the world of Business and Management, check out our regular blogposts.</p>
@@ -458,7 +403,7 @@ new WOW().init();
                             January 22, 2025
                             </div>
                             <div class="home-insight-rows-contents-row2">
-                                <a href="">
+                                <a href="contact">
                                     <img src="./dist/images/arrow.png" class="img-fluid">
                                 </a>
                             </div>
@@ -478,7 +423,7 @@ new WOW().init();
                             January 17, 2025
                             </div>
                             <div class="home-insight-rows-contents-row2">
-                                <a href="">
+                                <a href="contact">
                                     <img src="./dist/images/arrow.png" class="img-fluid">
                                 </a>
                             </div>
@@ -498,7 +443,7 @@ new WOW().init();
                             January 15, 2025
                             </div>
                             <div class="home-insight-rows-contents-row2">
-                                <a href="">
+                                <a href="contact">
                                     <img src="./dist/images/arrow.png" class="img-fluid">
                                 </a>
                             </div>
@@ -508,7 +453,7 @@ new WOW().init();
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 
 
