@@ -67,7 +67,7 @@ new WOW().init();
                             <div class="col-md-7">
                                 <div class="banner-head">10 Management Courses in 16 subject categories ranging from 1-day to 10-weeks in duration.</div>
                                 <div class="primary-button">
-                                    <a href="contact"><button>Browse ESL’s Open Courses <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                                    <a href="contact"><button>Make Enquiries <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                                 </div>
                             </div>
                         </div>
@@ -95,7 +95,7 @@ new WOW().init();
                             <div class="col-md-7">
                                 <div class="banner-head">A tailor-made management training solution designed and delivered specific to your needs.</div>
                                 <div class="primary-button">
-                                    <a href="contact"><button>Find out more about our Bespoke Training service <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                                    <a href="contact"><button>Make Enquiries <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                                 </div>
                             </div>
                         </div>
@@ -109,7 +109,7 @@ new WOW().init();
                             <div class="col-md-7">
                                 <div class="banner-head">One-on-one Coaching support from an experienced Business Expert over an extended period.</div>
                                 <div class="primary-button">
-                                    <a href="contact"><button>Enquire about ESL’s Executive Coaching <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                                    <a href="contact"><button>Make Enquiries <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                                 </div>
                             </div>
                         </div>
@@ -177,7 +177,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Strategic Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -187,7 +187,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Corporate Governance</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -197,7 +197,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Sustainability</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -207,7 +207,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Quality Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -217,7 +217,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Management Skills</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -227,7 +227,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Operations Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -237,7 +237,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Procurement and Contract Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -247,7 +247,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Leadership and Change management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -257,7 +257,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Hospitality and Retail Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -267,7 +267,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Project and Programme Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -277,7 +277,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Secretaries and Administrative Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">EXPLORE <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
                 </div>
             </div>
         </div>
@@ -291,7 +291,7 @@ new WOW().init();
                 <div class="home-provide-head">We provide services to keep you ahead in a competitive market.</div>
                 <p>Emece Solutions Limited services are delivered by practising Business and Management Consultants possessing extensive experience in their respective areas of expertise. Our consultants will take the time to develop a sound understanding of your development needs, and the service delivery will accordingly be customized to address your specific learning objectives.</p>
                 <div class="secondary-button">
-                    <a href="contact"><button>ESL COMPANY PROFILE <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                    <a href="contact"><button>GET IN TOUCH WITH US <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                 </div>
             </div>
         </div>
@@ -344,13 +344,41 @@ new WOW().init();
                     Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
                 </div> 
             </div>
+            <div class="swiper-slide">
+                <div class="delegate-row">
+                    Working with you has been an incredible journey of growth. Your guidance, challenges, and support have shaped my mindset and approach to work.
+                    Your commitment to coaching has taught me to embrace uncertainty, become a better listener, and collaborate more effectively. Through our conversations, I’ve learned to leverage others' knowledge, making me a stronger team player and leader.
+                    Thanks for helping me discover my authentic work-self—I now bring her to work and let her thrive. Grateful for your invaluable influence!
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="delegate-row">
+                    After 3 years of being in the fitness industry as a personal trainer, i found my business struggling with business ideas and plan. Having spoken to lola she decided to help me make few changes which have helped my business massively with growth and success. I will highly recommend lola's services to anyone who's looking to succeed in their business field. She's highly knowledgeable, dedicated to committed her time to support her clients. Thank you lola for your tremendous support and taking my business to the next level. I couldn't have done it without your guidance.
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="delegate-row">
+                    Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
+                </div> 
+            </div>
         </div>
     </div>
 </div> 
 
 <script>
+var mySwiper = new Swiper ('.swiper-container', {
+	loop: true,
+	slidesPerView: 3,
+	spaceBetween: 30,
+	breakpoints: {
+		768: {
+			slidesPerView: 1
+		}
+	}
+});
+</script>
+<!-- <script>
     $(document).ready(function() {
-// Swiper: Slider
     new Swiper('.swiper-container', {
         loop: true,
         nextButton: '.swiper-button-next',
@@ -375,11 +403,11 @@ new WOW().init();
         ,
         autoplay: {
         enabled: true,
-        delay: 2000
+        delay: 1000
         }
     });
 });
-</script>
+</script> -->
 
 <!-- <div class="delegate">
     <div class="container">
