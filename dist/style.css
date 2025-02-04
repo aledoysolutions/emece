@@ -1495,6 +1495,10 @@ html {
     text-align: left;
 }
 
+.people-slide {
+    margin-bottom: 60px;
+}
+
 .courseDetails-slide {
     margin-left: 100px;
 }

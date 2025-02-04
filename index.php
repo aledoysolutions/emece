@@ -33,6 +33,9 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/css/swiper.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/js/swiper.min.js"></script>
+
 
 
 
@@ -299,7 +302,87 @@ new WOW().init();
     </div>
 </div>
 
-<div class="delegate">
+<div class="container">
+    <div class="related-Head">What people are saying about us</div>
+</div>
+
+<div class="container people-slide">   
+    <!-- Slider main container -->
+    <div class="swiper-container">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <div class="delegate-row">
+                    Working with you has been an incredible journey of growth. Your guidance, challenges, and support have shaped my mindset and approach to work.
+                    Your commitment to coaching has taught me to embrace uncertainty, become a better listener, and collaborate more effectively. Through our conversations, I’ve learned to leverage others' knowledge, making me a stronger team player and leader.
+                    Thanks for helping me discover my authentic work-self—I now bring her to work and let her thrive. Grateful for your invaluable influence!
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="delegate-row">
+                    After 3 years of being in the fitness industry as a personal trainer, i found my business struggling with business ideas and plan. Having spoken to lola she decided to help me make few changes which have helped my business massively with growth and success. I will highly recommend lola's services to anyone who's looking to succeed in their business field. She's highly knowledgeable, dedicated to committed her time to support her clients. Thank you lola for your tremendous support and taking my business to the next level. I couldn't have done it without your guidance.
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="delegate-row">
+                    Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
+                </div> 
+            </div>
+            <div class="swiper-slide">
+                <div class="delegate-row">
+                    Working with you has been an incredible journey of growth. Your guidance, challenges, and support have shaped my mindset and approach to work.
+                    Your commitment to coaching has taught me to embrace uncertainty, become a better listener, and collaborate more effectively. Through our conversations, I’ve learned to leverage others' knowledge, making me a stronger team player and leader.
+                    Thanks for helping me discover my authentic work-self—I now bring her to work and let her thrive. Grateful for your invaluable influence!
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="delegate-row">
+                    After 3 years of being in the fitness industry as a personal trainer, i found my business struggling with business ideas and plan. Having spoken to lola she decided to help me make few changes which have helped my business massively with growth and success. I will highly recommend lola's services to anyone who's looking to succeed in their business field. She's highly knowledgeable, dedicated to committed her time to support her clients. Thank you lola for your tremendous support and taking my business to the next level. I couldn't have done it without your guidance.
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="delegate-row">
+                    Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
+                </div> 
+            </div>
+        </div>
+    </div>
+</div> 
+
+<script>
+    $(document).ready(function() {
+// Swiper: Slider
+    new Swiper('.swiper-container', {
+        loop: true,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        slidesPerView: 3,
+        paginationClickable: true,
+        spaceBetween: 20,
+        breakpoints: {
+            1920: {
+                slidesPerView: 3,
+                spaceBetween: 30
+            },
+            1028: {
+                slidesPerView: 2,
+                spaceBetween: 30
+            },
+            480: {
+                slidesPerView: 1,
+                spaceBetween: 10
+            }
+        }
+        ,
+        autoplay: {
+        enabled: true,
+        delay: 2000
+        }
+    });
+});
+</script>
+
+<!-- <div class="delegate">
     <div class="container">
         <div class="delegate-head">What people are saying about us</div>
         <div class="row">
@@ -322,7 +405,7 @@ new WOW().init();
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <div class="container">
     <div class="home-counts">
