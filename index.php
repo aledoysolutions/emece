@@ -58,7 +58,6 @@ new WOW().init();
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
-            <li data-target="#myCarousel" data-slide-to="3"></li>
         </ol>
         <div class="carousel-inner row w-100 mx-auto">
             <div class="carousel-item col-md-12 active">
@@ -66,7 +65,7 @@ new WOW().init();
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-7">
-                                <div class="banner-head">600 Management Courses in 16 subject categories ranging from 1-day to 11-weeks in duration.</div>
+                                <div class="banner-head">10 Management Courses in 16 subject categories ranging from 1-day to 10-weeks in duration.</div>
                                 <div class="primary-button">
                                     <a href="contact"><button>Browse ESL’s Open Courses <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                                 </div>
@@ -75,7 +74,7 @@ new WOW().init();
                     </div>
                 </div>
             </div>
-            <div class="carousel-item col-md-12">
+            <!-- <div class="carousel-item col-md-12">
                 <div class="card" style="background-image: url(./dist/images/banner-img2.png); background-repeat: no-repeat; background-size: cover;">
                     <div class="card-body">
                         <div class="row">
@@ -88,7 +87,7 @@ new WOW().init();
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="carousel-item col-md-12">
                 <div class="card" style="background-image: url(./dist/images/banner-img3.png); background-repeat: no-repeat; background-size: cover;">
                     <div class="card-body">
@@ -144,7 +143,7 @@ new WOW().init();
     </div>
 </div>
 
-<div class="clientele">
+<!-- <div class="clientele">
    <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -163,7 +162,7 @@ new WOW().init();
             </div>
         </div>
    </div> 
-</div>
+</div> -->
 
 <div class="container">
     <div class="home-empowering">
