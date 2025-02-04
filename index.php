@@ -303,136 +303,92 @@ new WOW().init();
 
 <div class="container">
     <div class="related-Head">What people are saying about us</div>
+
+    <div class="testimonial-slider">
+        <div class="testimonial-container">
+            <div class="testimonial">
+                Working with you has been an incredible journey of growth. Your guidance, challenges, and support have shaped my mindset and approach to work.
+                    Your commitment to coaching has taught me to embrace uncertainty, become a better listener, and collaborate more effectively. Through our conversations, I’ve learned to leverage others' knowledge, making me a stronger team player and leader.
+                    Thanks for helping me discover my authentic work-self—I now bring her to work and let her thrive. Grateful for your invaluable influence!
+            </div>
+            <div class="testimonial">
+            After 3 years of being in the fitness industry as a personal trainer, i found my business struggling with business ideas and plan. Having spoken to lola she decided to help me make few changes which have helped my business massively with growth and success. I will highly recommend lola's services to anyone who's looking to succeed in their business field. She's highly knowledgeable, dedicated to committed her time to support her clients. Thank you lola for your tremendous support and taking my business to the next level. I couldn't have done it without your guidance.
+            </div>
+            <div class="testimonial">
+            Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
+            </div>
+            <div class="testimonial">
+            Working with you has been an incredible journey of growth. Your guidance, challenges, and support have shaped my mindset and approach to work.
+                    Your commitment to coaching has taught me to embrace uncertainty, become a better listener, and collaborate more effectively. Through our conversations, I’ve learned to leverage others' knowledge, making me a stronger team player and leader.
+                    Thanks for helping me discover my authentic work-self—I now bring her to work and let her thrive. Grateful for your invaluable influence!
+            </div>
+            <div class="testimonial">
+            After 3 years of being in the fitness industry as a personal trainer, i found my business struggling with business ideas and plan. Having spoken to lola she decided to help me make few changes which have helped my business massively with growth and success. I will highly recommend lola's services to anyone who's looking to succeed in their business field. She's highly knowledgeable, dedicated to committed her time to support her clients. Thank you lola for your tremendous support and taking my business to the next level. I couldn't have done it without your guidance.
+            </div>
+        </div>
+        <div class="navigation">
+            <button id="prevBtn">&#10094;</button>
+            <button id="nextBtn">&#10095;</button>
+        </div>
+    </div>
 </div>
 
-<div class="container people-slide">   
-    <!-- Slider main container -->
-    <div class="swiper-container">
-        <!-- Additional required wrapper -->
-        <div class="swiper-wrapper">
-            <div class="swiper-slide">
-                <div class="delegate-row">
-                    Working with you has been an incredible journey of growth. Your guidance, challenges, and support have shaped my mindset and approach to work.
-                    Your commitment to coaching has taught me to embrace uncertainty, become a better listener, and collaborate more effectively. Through our conversations, I’ve learned to leverage others' knowledge, making me a stronger team player and leader.
-                    Thanks for helping me discover my authentic work-self—I now bring her to work and let her thrive. Grateful for your invaluable influence!
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="delegate-row">
-                    After 3 years of being in the fitness industry as a personal trainer, i found my business struggling with business ideas and plan. Having spoken to lola she decided to help me make few changes which have helped my business massively with growth and success. I will highly recommend lola's services to anyone who's looking to succeed in their business field. She's highly knowledgeable, dedicated to committed her time to support her clients. Thank you lola for your tremendous support and taking my business to the next level. I couldn't have done it without your guidance.
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="delegate-row">
-                    Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
-                </div> 
-            </div>
-            <div class="swiper-slide">
-                <div class="delegate-row">
-                    Working with you has been an incredible journey of growth. Your guidance, challenges, and support have shaped my mindset and approach to work.
-                    Your commitment to coaching has taught me to embrace uncertainty, become a better listener, and collaborate more effectively. Through our conversations, I’ve learned to leverage others' knowledge, making me a stronger team player and leader.
-                    Thanks for helping me discover my authentic work-self—I now bring her to work and let her thrive. Grateful for your invaluable influence!
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="delegate-row">
-                    After 3 years of being in the fitness industry as a personal trainer, i found my business struggling with business ideas and plan. Having spoken to lola she decided to help me make few changes which have helped my business massively with growth and success. I will highly recommend lola's services to anyone who's looking to succeed in their business field. She's highly knowledgeable, dedicated to committed her time to support her clients. Thank you lola for your tremendous support and taking my business to the next level. I couldn't have done it without your guidance.
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="delegate-row">
-                    Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
-                </div> 
-            </div>
-            <div class="swiper-slide">
-                <div class="delegate-row">
-                    Working with you has been an incredible journey of growth. Your guidance, challenges, and support have shaped my mindset and approach to work.
-                    Your commitment to coaching has taught me to embrace uncertainty, become a better listener, and collaborate more effectively. Through our conversations, I’ve learned to leverage others' knowledge, making me a stronger team player and leader.
-                    Thanks for helping me discover my authentic work-self—I now bring her to work and let her thrive. Grateful for your invaluable influence!
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="delegate-row">
-                    After 3 years of being in the fitness industry as a personal trainer, i found my business struggling with business ideas and plan. Having spoken to lola she decided to help me make few changes which have helped my business massively with growth and success. I will highly recommend lola's services to anyone who's looking to succeed in their business field. She's highly knowledgeable, dedicated to committed her time to support her clients. Thank you lola for your tremendous support and taking my business to the next level. I couldn't have done it without your guidance.
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="delegate-row">
-                    Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
-                </div> 
-            </div>
-        </div>
-    </div>
-</div> 
-
 <script>
-var mySwiper = new Swiper ('.swiper-container', {
-	loop: true,
-	slidesPerView: 3,
-	spaceBetween: 30,
-	breakpoints: {
-		768: {
-			slidesPerView: 1
-		}
-	}
-});
-</script>
-<!-- <script>
-    $(document).ready(function() {
-    new Swiper('.swiper-container', {
-        loop: true,
-        nextButton: '.swiper-button-next',
-        prevButton: '.swiper-button-prev',
-        slidesPerView: 3,
-        paginationClickable: true,
-        spaceBetween: 20,
-        breakpoints: {
-            1920: {
-                slidesPerView: 3,
-                spaceBetween: 30
-            },
-            1028: {
-                slidesPerView: 2,
-                spaceBetween: 30
-            },
-            480: {
-                slidesPerView: 1,
-                spaceBetween: 10
-            }
-        }
-        ,
-        autoplay: {
-        enabled: true,
-        delay: 1000
-        }
-    });
-});
-</script> -->
+    let currentIndex = 0;
+const testimonialContainer = document.querySelector('.testimonial-container');
+const testimonials = document.querySelectorAll('.testimonial');
+const totalTestimonials = testimonials.length;
+let autoPlayInterval;
 
-<!-- <div class="delegate">
-    <div class="container">
-        <div class="delegate-head">What people are saying about us</div>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="delegate-row">
-                Working with you has been an incredible journey of growth. Your guidance, challenges, and support have shaped my mindset and approach to work.
-                Your commitment to coaching has taught me to embrace uncertainty, become a better listener, and collaborate more effectively. Through our conversations, I’ve learned to leverage others' knowledge, making me a stronger team player and leader.
-                Thanks for helping me discover my authentic work-self—I now bring her to work and let her thrive. Grateful for your invaluable influence!
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="delegate-row">
-                After 3 years of being in the fitness industry as a personal trainer, i found my business struggling with business ideas and plan. Having spoken to lola she decided to help me make few changes which have helped my business massively with growth and success. I will highly recommend lola's services to anyone who's looking to succeed in their business field. She's highly knowledgeable, dedicated to committed her time to support her clients. Thank you lola for your tremendous support and taking my business to the next level. I couldn't have done it without your guidance.
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="delegate-row">
-                Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
-                </div>
-            </div>
-        </div>
-    </div>
-</div> -->
+function updateSlider() {
+    const slideWidth = testimonials[0].clientWidth + 20; // Include margin
+    testimonialContainer.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
+}
+
+function nextSlide() {
+    currentIndex = (currentIndex + 1) % totalTestimonials;
+    updateSlider();
+}
+
+function prevSlide() {
+    currentIndex = (currentIndex - 1 + totalTestimonials) % totalTestimonials;
+    updateSlider();
+}
+
+function startAutoPlay() {
+    autoPlayInterval = setInterval(nextSlide, 3000); // Change slide every 3 seconds
+}
+
+function stopAutoPlay() {
+    clearInterval(autoPlayInterval);
+}
+
+// Event listeners for navigation buttons
+document.getElementById('nextBtn').addEventListener('click', () => {
+    nextSlide();
+    stopAutoPlay();
+    startAutoPlay();
+});
+
+document.getElementById('prevBtn').addEventListener('click', () => {
+    prevSlide();
+    stopAutoPlay();
+    startAutoPlay();
+});
+
+// Start autoplay on page load
+startAutoPlay();
+
+// Pause autoplay when user hovers over the slider
+testimonialContainer.addEventListener('mouseenter', stopAutoPlay);
+testimonialContainer.addEventListener('mouseleave', startAutoPlay);
+
+// Update slider on window resize (for responsiveness)
+window.addEventListener('resize', updateSlider);
+</script>
+
+
+
 
 <div class="container">
     <div class="home-counts">

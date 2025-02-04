@@ -1633,7 +1633,65 @@ html {
     transform: scale(1.2);
 }
 
+.testimonial-slider {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1200px;
+    overflow: hidden;
+    position: relative;
+}
 
+.testimonial-container {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.testimonial {
+    flex: 0 0 100%;
+    padding: 30px;
+    background-color: #EBF1FF;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 0 10px;
+    text-align: center;
+}
+
+
+.navigation {
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.navigation button {
+    background-color: #EBF1FF;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 0 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navigation button:hover {
+    background-color: #EBF1FF;
+}
+
+/* Responsive Design */
+@media (min-width: 768px) {
+    .testimonial {
+        flex: 0 0 calc(33.33% - 20px); /* Show 3 cards on desktop */
+    }
+}
+
+@media (max-width: 767px) {
+    .testimonial {
+        flex: 0 0 100%; /* Show 1 card on mobile */
+    }
+}
 
 
 
