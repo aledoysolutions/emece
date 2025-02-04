@@ -36,6 +36,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/css/swiper.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/js/swiper.min.js"></script>
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/freeps2/a7rarpress@main/swiper-bundle.min.css">
+
 
 
 
@@ -304,7 +306,7 @@ new WOW().init();
 <div class="container">
     <div class="related-Head">What people are saying about us</div>
 
-    <div class="testimonial-slider">
+    <!-- <div class="testimonial-slider">
         <div class="testimonial-container">
             <div class="testimonial">
                 Working with you has been an incredible journey of growth. Your guidance, challenges, and support have shaped my mindset and approach to work.
@@ -330,65 +332,79 @@ new WOW().init();
             <button id="prevBtn">&#10094;</button>
             <button id="nextBtn">&#10095;</button>
         </div>
+    </div> -->
+</div>
+
+
+
+
+<div class="slide-container swiper">
+    <div class="slide-content2">
+        <div class="card-wrapper swiper-wrapper">
+            <div class="card swiper-slide">
+                <div class="client-content">
+                Working with you has been a true journey of growth. Your guidance has shaped my mindset and approach. You've taught me to embrace uncertainty, listen more, and collaborate better. I've learned to leverage others' knowledge, becoming a stronger team player and leader. Thanks for helping me find my authentic work-self—I'm grateful for your invaluable influence!     
+                </div>
+            </div>   
+            <div class="card swiper-slide">
+                <div class="client-content">
+                Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
+
+                Thank you Lola for being amazing.        
+                </div>
+            </div>
+            <div class="card swiper-slide">
+                <div class="client-content">                
+                After three years as a personal trainer, my business struggled with ideas and planning. Lola helped me make key changes that led to significant growth. I highly recommend her services to anyone seeking success. She is knowledgeable, dedicated, and truly committed to her clients. Thank you, Lola, for taking my business to the next level!       
+                </div>
+            </div>    
+                                
+        </div>
     </div>
+
+    <div class="swiper-button-next swiper-navBtn"></div>
+    <div class="swiper-button-prev swiper-navBtn"></div>
 </div>
 
 <script>
-    let currentIndex = 0;
-const testimonialContainer = document.querySelector('.testimonial-container');
-const testimonials = document.querySelectorAll('.testimonial');
-const totalTestimonials = testimonials.length;
-let autoPlayInterval;
+    var swiper = new Swiper(".slide-content2", {
+    slidesPerView: 3,
+    spaceBetween: 25,
+    loop: true,
+    centerSlide: 'true',
+    fade: 'true',
+    grabCursor: 'true',
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+      dynamicBullets: true,
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
 
-function updateSlider() {
-    const slideWidth = testimonials[0].clientWidth + 20; // Include margin
-    testimonialContainer.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
-}
-
-function nextSlide() {
-    currentIndex = (currentIndex + 1) % totalTestimonials;
-    updateSlider();
-}
-
-function prevSlide() {
-    currentIndex = (currentIndex - 1 + totalTestimonials) % totalTestimonials;
-    updateSlider();
-}
-
-function startAutoPlay() {
-    autoPlayInterval = setInterval(nextSlide, 3000); // Change slide every 3 seconds
-}
-
-function stopAutoPlay() {
-    clearInterval(autoPlayInterval);
-}
-
-// Event listeners for navigation buttons
-document.getElementById('nextBtn').addEventListener('click', () => {
-    nextSlide();
-    stopAutoPlay();
-    startAutoPlay();
-});
-
-document.getElementById('prevBtn').addEventListener('click', () => {
-    prevSlide();
-    stopAutoPlay();
-    startAutoPlay();
-});
-
-// Start autoplay on page load
-startAutoPlay();
-
-// Pause autoplay when user hovers over the slider
-testimonialContainer.addEventListener('mouseenter', stopAutoPlay);
-testimonialContainer.addEventListener('mouseleave', startAutoPlay);
-
-// Update slider on window resize (for responsiveness)
-window.addEventListener('resize', updateSlider);
+    breakpoints:{
+        0: {
+            slidesPerView: 1,
+        },
+        520: {
+            slidesPerView: 1,
+        },
+        950: {
+            slidesPerView: 3,
+        },
+    },
+  });
 </script>
 
+<script src="//cdn.jsdelivr.net/gh/freeps2/a7rarpress@main/swiper-bundle.min.js"></script>
 
+<!-- JavaScript -->
+  <!--Uncomment this line-->
+<script src="//cdn.jsdelivr.net/gh/freeps2/a7rarpress@main/script.js"></script>
 
+<br><br>
 
 <div class="container">
     <div class="home-counts">
