@@ -305,104 +305,89 @@ new WOW().init();
 
 <div class="container">
     <div class="related-Head">What people are saying about us</div>
-
-    <!-- <div class="testimonial-slider">
-        <div class="testimonial-container">
-            <div class="testimonial">
-                Working with you has been an incredible journey of growth. Your guidance, challenges, and support have shaped my mindset and approach to work.
-                    Your commitment to coaching has taught me to embrace uncertainty, become a better listener, and collaborate more effectively. Through our conversations, I’ve learned to leverage others' knowledge, making me a stronger team player and leader.
-                    Thanks for helping me discover my authentic work-self—I now bring her to work and let her thrive. Grateful for your invaluable influence!
-            </div>
-            <div class="testimonial">
-            After 3 years of being in the fitness industry as a personal trainer, i found my business struggling with business ideas and plan. Having spoken to lola she decided to help me make few changes which have helped my business massively with growth and success. I will highly recommend lola's services to anyone who's looking to succeed in their business field. She's highly knowledgeable, dedicated to committed her time to support her clients. Thank you lola for your tremendous support and taking my business to the next level. I couldn't have done it without your guidance.
-            </div>
-            <div class="testimonial">
-            Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
-            </div>
-            <div class="testimonial">
-            Working with you has been an incredible journey of growth. Your guidance, challenges, and support have shaped my mindset and approach to work.
-                    Your commitment to coaching has taught me to embrace uncertainty, become a better listener, and collaborate more effectively. Through our conversations, I’ve learned to leverage others' knowledge, making me a stronger team player and leader.
-                    Thanks for helping me discover my authentic work-self—I now bring her to work and let her thrive. Grateful for your invaluable influence!
-            </div>
-            <div class="testimonial">
-            After 3 years of being in the fitness industry as a personal trainer, i found my business struggling with business ideas and plan. Having spoken to lola she decided to help me make few changes which have helped my business massively with growth and success. I will highly recommend lola's services to anyone who's looking to succeed in their business field. She's highly knowledgeable, dedicated to committed her time to support her clients. Thank you lola for your tremendous support and taking my business to the next level. I couldn't have done it without your guidance.
-            </div>
-        </div>
-        <div class="navigation">
-            <button id="prevBtn">&#10094;</button>
-            <button id="nextBtn">&#10095;</button>
-        </div>
-    </div> -->
 </div>
 
+<div class="newTest-desktop">
+    <div class="container">
+        <div id="myCarousel2" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <!-- <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel2" data-slide-to="1"></li>
+                <li data-target="#myCarousel2" data-slide-to="2"></li> -->
+            </ol>
+            <div class="carousel-inner row w-100 mx-auto">
+                <div class="carousel-item col-md-12 active">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="client-content">
+                                        Working with you has been a true journey of growth. Your guidance has shaped my mindset and approach. You've taught me to embrace uncertainty, listen more, and collaborate better. I've learned to leverage others' knowledge, becoming a stronger team player and leader. Thanks for helping me find my authentic work-self—I'm grateful for your invaluable influence!     
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="client-content">
+                                    Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
 
-
-
-<div class="slide-container swiper">
-    <div class="slide-content2">
-        <div class="card-wrapper swiper-wrapper">
-            <div class="card swiper-slide">
-                <div class="client-content">
-                Working with you has been a true journey of growth. Your guidance has shaped my mindset and approach. You've taught me to embrace uncertainty, listen more, and collaborate better. I've learned to leverage others' knowledge, becoming a stronger team player and leader. Thanks for helping me find my authentic work-self—I'm grateful for your invaluable influence!     
-                </div>
-            </div>   
-            <div class="card swiper-slide">
-                <div class="client-content">
-                Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
-
-                Thank you Lola for being amazing.        
+                                    Thank you Lola for being amazing.     
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="client-content">
+                                        After three years as a personal trainer, my business struggled with ideas and planning. Lola helped me make key changes that led to significant growth. I highly recommend her services to anyone seeking success. She is knowledgeable, dedicated, and truly committed to her clients. Thank you, Lola, for taking my business to the next level!      
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="card swiper-slide">
-                <div class="client-content">                
-                After three years as a personal trainer, my business struggled with ideas and planning. Lola helped me make key changes that led to significant growth. I highly recommend her services to anyone seeking success. She is knowledgeable, dedicated, and truly committed to her clients. Thank you, Lola, for taking my business to the next level!       
-                </div>
-            </div>    
-                                
         </div>
     </div>
-
-    <div class="swiper-button-next swiper-navBtn"></div>
-    <div class="swiper-button-prev swiper-navBtn"></div>
 </div>
 
-<script>
-    var swiper = new Swiper(".slide-content2", {
-    slidesPerView: 3,
-    spaceBetween: 25,
-    loop: true,
-    centerSlide: 'true',
-    fade: 'true',
-    grabCursor: 'true',
-    pagination: {
-      el: ".swiper-pagination",
-      clickable: true,
-      dynamicBullets: true,
-    },
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    },
+<div class="newTest-mobile">
+    <div class="container">
+        <div id="myCarousel3" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel3" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel3" data-slide-to="1"></li>
+                <li data-target="#myCarousel3" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner row w-100 mx-auto">
+                <div class="carousel-item col-md-12 active">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="client-content">
+                                Working with you has been a true journey of growth. Your guidance has shaped my mindset and approach. You've taught me to embrace uncertainty, listen more, and collaborate better. I've learned to leverage others' knowledge, becoming a stronger team player and leader. Thanks for helping me find my authentic work-self—I'm grateful for your invaluable influence!     
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item col-md-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="client-content">
+                                Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
 
-    breakpoints:{
-        0: {
-            slidesPerView: 1,
-        },
-        520: {
-            slidesPerView: 1,
-        },
-        950: {
-            slidesPerView: 3,
-        },
-    },
-  });
-</script>
-
-<script src="//cdn.jsdelivr.net/gh/freeps2/a7rarpress@main/swiper-bundle.min.js"></script>
-
-<!-- JavaScript -->
-  <!--Uncomment this line-->
-<script src="//cdn.jsdelivr.net/gh/freeps2/a7rarpress@main/script.js"></script>
+                                Thank you Lola for being amazing.     
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item col-md-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="client-content">
+                                After three years as a personal trainer, my business struggled with ideas and planning. Lola helped me make key changes that led to significant growth. I highly recommend her services to anyone seeking success. She is knowledgeable, dedicated, and truly committed to her clients. Thank you, Lola, for taking my business to the next level!      
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <br><br>
 
