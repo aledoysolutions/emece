@@ -85,7 +85,7 @@ new WOW().init();
                         <img src="./dist/images/contact-icon2.png" class="img-fluid">
                     </div>
                     <div class="contactNav-row2">
-                    +44 203 1266 755 <br> +44 203 1266 755
+                        01506368958
                     </div>
                 </div>
             </div>

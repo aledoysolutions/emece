@@ -37,7 +37,7 @@
                     <div class="footer-contact1">
                         <img src="./dist/images/fa-phone.png" class="img-fluid">
                     </div>
-                    <div class="footer-contact2">+44 203 1266 755</div>
+                    <div class="footer-contact2">01506368958</div>
                 </div>
                 <div class="footer-contact">
                     <div class="footer-contact1">

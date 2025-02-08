@@ -12,7 +12,7 @@
           </div>
           <div class="navTop-row-leftA">
             <img src="./dist/images/fa-phone.png" class="img-fluid">
-            01869337583
+            01506368958
           </div>
         </div>
         <div class="navTop-row-right">
@@ -66,9 +66,9 @@
       <li class="nav-item">
         <a class="nav-link" href="faq">FAQS</a>
       </li>
-      <!-- <li class="nav-item">
-        <a class="nav-link" href="insights">INSIGHTS</a>
-      </li> -->
+      <li class="nav-item">
+        <a class="nav-link" href="courses">COURSES</a>
+      </li>
       <li class="nav-item">
         <a class="nav-link" href="contact">CONTACT</a>
       </li>

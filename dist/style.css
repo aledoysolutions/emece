@@ -1652,6 +1652,14 @@ html {
     height: 290px;
 }
 
+.swiper-slide-box {
+    background-color: #EBF1FF;
+    padding: 30px;
+    border-radius: 30px;
+    height: 290px;
+    font-size: 14px;
+}
+
 
 
 
@@ -1664,6 +1672,8 @@ html {
 /* MEDIA */
 
 @media (max-width: 736px) {
+
+   
 
     .client-content {
         background-color: #EBF1FF;

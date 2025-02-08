@@ -36,7 +36,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/css/swiper.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/js/swiper.min.js"></script>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/freeps2/a7rarpress@main/swiper-bundle.min.css">
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/freeps2/a7rarpress@main/swiper-bundle.min.css"> -->
 
 
 
@@ -166,125 +166,7 @@ new WOW().init();
    </div> 
 </div> -->
 
-<div class="container">
-    <div class="home-empowering">
-        <div class="home-empowering-head">Empowering Businesses in London</div>
-        <p>Expert Training and Consulting Solutions to Drive Growth and Success</p>
 
-        <div class="row">
-            <div class="col-md-4">
-                <div class="home-empowering-row">
-                    <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img1.png" class="img-fluid">
-                    </div>
-                    <div class="home-empowering-row-head">Strategic Management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="home-empowering-row">
-                    <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img2.png" class="img-fluid">
-                    </div>
-                    <div class="home-empowering-row-head">Corporate Governance</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="home-empowering-row">
-                    <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img3.png" class="img-fluid">
-                    </div>
-                    <div class="home-empowering-row-head">Sustainability</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="home-empowering-row">
-                    <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img1.png" class="img-fluid">
-                    </div>
-                    <div class="home-empowering-row-head">Quality Management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="home-empowering-row">
-                    <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img2.png" class="img-fluid">
-                    </div>
-                    <div class="home-empowering-row-head">Management Skills</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="home-empowering-row">
-                    <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img3.png" class="img-fluid">
-                    </div>
-                    <div class="home-empowering-row-head">Operations Management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="home-empowering-row">
-                    <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img1.png" class="img-fluid">
-                    </div>
-                    <div class="home-empowering-row-head">Procurement and Contract Management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="home-empowering-row">
-                    <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img2.png" class="img-fluid">
-                    </div>
-                    <div class="home-empowering-row-head">Leadership and Change management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="home-empowering-row">
-                    <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img3.png" class="img-fluid">                        
-                    </div>
-                    <div class="home-empowering-row-head">Hospitality and Retail Management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="home-empowering-row">
-                    <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img1.png" class="img-fluid">
-                    </div>
-                    <div class="home-empowering-row-head">Project and Programme Management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="home-empowering-row">
-                    <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img2.png" class="img-fluid">
-                    </div>
-                    <div class="home-empowering-row-head">Secretaries and Administrative Management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 <div class="home-provide">
     <div class="container">
@@ -307,13 +189,10 @@ new WOW().init();
     <div class="related-Head">What people are saying about us</div>
 </div>
 
-<div class="newTest-desktop">
+<!-- <div class="newTest-desktop">
     <div class="container">
         <div id="myCarousel2" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
-                <!-- <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
-                <li data-target="#myCarousel2" data-slide-to="1"></li>
-                <li data-target="#myCarousel2" data-slide-to="2"></li> -->
             </ol>
             <div class="carousel-inner row w-100 mx-auto">
                 <div class="carousel-item col-md-12 active">
@@ -344,8 +223,8 @@ new WOW().init();
             </div>
         </div>
     </div>
-</div>
-
+</div> -->
+<!-- 
 <div class="newTest-mobile">
     <div class="container">
         <div id="myCarousel3" class="carousel slide" data-ride="carousel">
@@ -387,7 +266,84 @@ new WOW().init();
             </div>
         </div>
     </div>
-</div>
+</div> -->
+
+<div class="container">
+        <div class="people-slide">
+            <section class="half-color-box">
+                <div class="swiper-container swiper-testimonial">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="swiper-slide-box">
+                                <p>Working with you has been a true journey of growth. Your guidance has shaped my mindset and approach. You've taught me to embrace uncertainty, listen more, and collaborate better. I've learned to leverage others' knowledge, becoming a stronger team player and leader. Thanks for helping me find my authentic work-self—I'm grateful for your invaluable influence!</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="swiper-slide-box">
+                                <p>Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
+
+                                Thank you Lola for being amazing.</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="swiper-slide-box">
+                                <p>After three years as a personal trainer, my business struggled with ideas and planning. Lola helped me make key changes that led to significant growth. I highly recommend her services to anyone seeking success. She is knowledgeable, dedicated, and truly committed to her clients. Thank you, Lola, for taking my business to the next level!</p>
+                            </div>
+                        </div>   
+                        <div class="swiper-slide">
+                            <div class="swiper-slide-box">
+                                <p>Working with you has been a true journey of growth. Your guidance has shaped my mindset and approach. You've taught me to embrace uncertainty, listen more, and collaborate better. I've learned to leverage others' knowledge, becoming a stronger team player and leader. Thanks for helping me find my authentic work-self—I'm grateful for your invaluable influence!</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="swiper-slide-box">
+                                <p>Getting a professional job in Edinburgh, seemed impossible! I was a stay home mum and a student. Lola, guided me through getting my CV ready, walked me through every interview and assisted me in building my confidence. I loved the way she dissected examples, she made interview easy for me and I can't thank her enough. She is someone I looked up to.
+
+                                Thank you Lola for being amazing.</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="swiper-slide-box">
+                                <p>After three years as a personal trainer, my business struggled with ideas and planning. Lola helped me make key changes that led to significant growth. I highly recommend her services to anyone seeking success. She is knowledgeable, dedicated, and truly committed to her clients. Thank you, Lola, for taking my business to the next level!</p>
+                            </div>
+                        </div>                        
+                    </div>
+
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <script>
+    var swiper = new Swiper('.swiper-container.swiper-testimonial', {
+        slidesPerView: 3,
+        spaceBetween: 30,
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },
+        autoplay: {
+            delay: 2500,
+            disableOnInteraction: false,
+        },
+        navigation: {
+            nextEl: '.swiper-button-next-test',
+            prevEl: '.swiper-button-prev-test',
+        },
+        breakpoints: {
+            // When the viewport width is <= 1024px
+            1024: {
+                slidesPerView: 2,
+                spaceBetween: 20,
+            },
+            // When the viewport width is <= 768px
+            768: {
+                slidesPerView: 1,
+                spaceBetween: 10,
+            },
+        },
+    });
+    </script>
 
 <br><br>
 
