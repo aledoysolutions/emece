@@ -1733,7 +1733,7 @@ html {
     }
 
     .home-banner .card {
-        padding-left: 20px;
+        padding-left: 0px;
         background-color: transparent;
         border: none;
         padding-top: 50px;

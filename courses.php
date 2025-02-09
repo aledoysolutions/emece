@@ -67,7 +67,7 @@ new WOW().init();
 
 <div class="container">
     <div class="home-empowering">
-        <div class="home-empowering-head">Empowering Businesses in London</div>
+        <div class="home-empowering-head">Empowering Businesses in UK</div>
         <p>Expert Training and Consulting Solutions to Drive Growth and Success</p>
 
         <div class="row">
