@@ -67,7 +67,7 @@ new WOW().init();
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-7">
-                                <div class="banner-head">10 Management Courses in 16 subject categories ranging from 1-day to 10-weeks in duration.</div>
+                                <div class="banner-head">10 Management Courses ranging from 1-day to 10-weeks in duration.</div>
                                 <div class="primary-button">
                                     <a href="contact"><button>Make Enquiries <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                                 </div>
@@ -94,8 +94,8 @@ new WOW().init();
                 <div class="card" style="background-image: url(./dist/images/banner-img3.png); background-repeat: no-repeat; background-size: cover;">
                     <div class="card-body">
                         <div class="row">
-                            <div class="col-md-7">
-                                <div class="banner-head">A tailor-made management training solution designed and delivered specific to your needs.</div>
+                            <div class="col-md-6">
+                                <div class="banner-head">A tailor-made management training solution.</div>
                                 <div class="primary-button">
                                     <a href="contact"><button>Make Enquiries <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                                 </div>
@@ -108,8 +108,8 @@ new WOW().init();
                 <div class="card" style="background-image: url(./dist/images/banner-img4.png); background-repeat: no-repeat; background-size: cover;">
                     <div class="card-body">
                         <div class="row">
-                            <div class="col-md-7">
-                                <div class="banner-head">One-on-one Coaching support from an experienced Business Expert over an extended period.</div>
+                            <div class="col-md-6">
+                                <div class="banner-head">One-on-one Coaching support.</div>
                                 <div class="primary-button">
                                     <a href="contact"><button>Make Enquiries <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
                                 </div>
@@ -144,6 +144,7 @@ new WOW().init();
         </div>
     </div>
 </div>
+
 
 <!-- <div class="clientele">
    <div class="container">
