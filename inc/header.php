@@ -32,10 +32,13 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 
+  <?php $page = basename($_SERVER['SCRIPT_NAME']); ?>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
-        <a class="nav-link" href="./">HOME</a>
+        <a class="nav-link <?php if ($page == 'index.php') {
+                                    echo 'nav-active';
+                                } ?>" href="./">HOME</a>
       </li>
       <!-- <li class="nav-item dropdown dropdownLL">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -64,16 +67,24 @@
         </div>
       </li> -->
       <li class="nav-item">
-        <a class="nav-link" href="our-company">ABOUT</a>
+        <a class="nav-link <?php if ($page == 'our-company.php') {
+                                    echo 'nav-active';
+                                } ?>" href="our-company">ABOUT</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="faq">FAQS</a>
+        <a class="nav-link <?php if ($page == 'faq.php') {
+                                    echo 'nav-active';
+                                } ?>" href="faq">FAQS</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="courses">COURSES</a>
+        <a class="nav-link <?php if ($page == 'courses.php') {
+                                    echo 'nav-active';
+                                } ?>" href="courses">COURSES</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="contact">CONTACT</a>
+        <a class="nav-link <?php if ($page == 'contact.php') {
+                                    echo 'nav-active';
+                                } ?>" href="contact">CONTACT</a>
       </li>
       <li class="nav-item">
         <div class="search-container">

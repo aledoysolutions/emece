@@ -44,9 +44,17 @@ html {
     color: #182641;
 }
 
+#navbar .nav-active {
+    transition: .3s all;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 18.78px;
+    color: #EE4B2D
+}
+
 #navbar .nav-link:hover {
     transition: .3s all;
-    color: #333;
+    color: #EE4B2D;
 }
 
 .navTop {
