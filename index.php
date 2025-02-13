@@ -146,7 +146,7 @@ new WOW().init();
 </div>
 
 
-<!-- <div class="clientele">
+<div class="clientele">
    <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -158,14 +158,15 @@ new WOW().init();
                     </div>  
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
                 <div class="clientele-right">
                     <img src="./dist/images/client-img.png" class="img-fluid">
                 </div>
             </div>
         </div>
    </div> 
-</div> -->
+</div>
 
 
 
