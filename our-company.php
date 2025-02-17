@@ -78,7 +78,7 @@ new WOW().init();
                     <div class="home-about-right-head">We have successfully designed a ‘one stop shop’ for all your training and human capacity development needs.</div>
                     <p>Emece Solutions is a leader in providing transformational learning and peak performance solutions. We have successfully designed a ‘one stop shop’ for all your training and human capacity development needs.</p>
 
-                    <p>With a well-researched course framework and highly experienced team of professional trainers, we guarantee comprehensive package of performance driven solutions that can meet all your needs. As part of our corporate social responsibility, we provide highly subsidized trainings for non-profit organizations or for initiatives driven at community/citizenship development and motivation.</p>   
+                    <p>With a well-researched course framework and highly experienced team of professional trainers, we guarantee comprehensive package of performance driven solutions that can meet all your needs. As part of our corporate social responsibility, we provide highly subsidized trainings for non-profit organizations or for initiatives driven at community/citizen development and motivation.</p>   
                 </div>
             </div>
         </div>
@@ -153,9 +153,11 @@ new WOW().init();
             <div class="col-md-5">
                 <div class="about-unlockR">
                     <div class="about-unlockR-head">Unlock Your Potential Today!</div>
-                    <p>Enroll in our business training today and gain the skills you need to succeed. Take your career to the next level with expert guidance and practical knowledge.</p>
+                    <p>Are you a business looking to build your human capacity and take your results to the next level.</p>
+                    <p>Are you an individual looking to equip yourself with the right skills, knowledge and experience to transform your career?</p>
+                    <br>
                     <div class="secondary-button">
-                        <a href="contact"><button>GET STARTED <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                        <a href="contact"><button>GET STARTED </button></a>
                     </div>
                 </div>
             </div>

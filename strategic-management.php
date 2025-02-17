@@ -170,7 +170,7 @@ new WOW().init();
 
     <div class="loadMore">
         <div class="secondary-button">
-            <a href=""><button>LOAD MORE <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+            <a href=""><button>LOAD MORE </button></a>
         </div>
     </div>
 </div>

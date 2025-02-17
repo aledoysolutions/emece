@@ -76,9 +76,9 @@ new WOW().init();
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img1.png" class="img-fluid">
                     </div>
-                    <div class="home-empowering-row-head">Strategic Management</div>
+                    <div class="home-empowering-row-head">Management and Leadership</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -86,9 +86,9 @@ new WOW().init();
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img2.png" class="img-fluid">
                     </div>
-                    <div class="home-empowering-row-head">Corporate Governance</div>
+                    <div class="home-empowering-row-head">Digital Transformation and Change Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -96,9 +96,9 @@ new WOW().init();
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img3.png" class="img-fluid">
                     </div>
-                    <div class="home-empowering-row-head">Sustainability</div>
+                    <div class="home-empowering-row-head">Business Development and Project Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -106,9 +106,9 @@ new WOW().init();
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img1.png" class="img-fluid">
                     </div>
-                    <div class="home-empowering-row-head">Quality Management</div>
+                    <div class="home-empowering-row-head">Soft Skills’ Operations</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -116,9 +116,9 @@ new WOW().init();
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img2.png" class="img-fluid">
                     </div>
-                    <div class="home-empowering-row-head">Management Skills</div>
+                    <div class="home-empowering-row-head">Human Resources Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -126,60 +126,60 @@ new WOW().init();
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img3.png" class="img-fluid">
                     </div>
-                    <div class="home-empowering-row-head">Operations Management</div>
+                    <div class="home-empowering-row-head">Public Relations and Service Delivery</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div>
-            <div class="col-md-4">
+            <!-- <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img1.png" class="img-fluid">
                     </div>
-                    <div class="home-empowering-row-head">Procurement and Contract Management</div>
+                    <div class="home-empowering-row-head">Service Delivery</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES </a>
                 </div>
-            </div>
-            <div class="col-md-4">
+            </div> -->
+            <!-- <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img2.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Leadership and Change management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES </a>
                 </div>
-            </div>
-            <div class="col-md-4">
+            </div> -->
+            <!-- <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img3.png" class="img-fluid">                        
                     </div>
                     <div class="home-empowering-row-head">Hospitality and Retail Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES </a>
                 </div>
-            </div>
-            <div class="col-md-4">
+            </div> -->
+            <!-- <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img1.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Project and Programme Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
+                    <a href="contact">MAKE ENQUIRIES </a>
                 </div>
-            </div>
-            <div class="col-md-4">
+            </div> -->
+            <!-- <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
                         <img src="./dist/images/emp-img2.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Secretaries and Administrative Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
-                    <a href="contact">MAKE ENQUIRIES <img src="./dist/images/fa-btn2.png" class="img-fluid"></a>
-                </div>
+                    <a href="contact">MAKE ENQUIRIES </a>
+                </div> -->
             </div>
         </div>
     </div>

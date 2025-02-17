@@ -5,7 +5,7 @@
         <div class="navTop-row-left">
           <div class="navTop-row-leftA">
             <img src="./dist/images/fa-email.png" class="img-fluid">
-            contact@emecesolutionslimited.co.uk
+            contact@ESL.co.uk
           </div>
           <div class="navTop-row-leftB">
             <img src="./dist/images/nav-line.png" class="img-fluid">
@@ -15,14 +15,14 @@
             01506368958
           </div>
         </div>
-        <div class="navTop-row-right">
+        <!-- <div class="navTop-row-right">
           <a href=""><img src="./dist/images/fa-facebook.png" class="img-fluid"></a>
           <a href=""><img src="./dist/images/fa-x.png" class="img-fluid"></a>
           <a href=""><img src="./dist/images/fa-instagram.png" class="img-fluid"></a>
           <a href=""><img src="./dist/images/fa-youtube.png" class="img-fluid"></a>
           <a href=""><img src="./dist/images/fa-whatsapp.png" class="img-fluid"></a>
           <a href=""><img src="./dist/images/fa-link.png" class="img-fluid"></a>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>

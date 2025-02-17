@@ -69,7 +69,7 @@ new WOW().init();
                             <div class="col-md-7">
                                 <div class="banner-head">10 Management Courses ranging from 1-day to 10-weeks in duration.</div>
                                 <div class="primary-button">
-                                    <a href="contact"><button>Make Enquiries <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                                    <a href="contact"><button>Make Enquiries </button></a>
                                 </div>
                             </div>
                         </div>
@@ -83,7 +83,7 @@ new WOW().init();
                             <div class="col-md-7">
                                 <div class="banner-head">Seventy-six (76) LIVE Online Management Courses each lasting 90-minutes.</div>
                                 <div class="primary-button">
-                                    <a href="contact"><button>Check out the entire range <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                                    <a href="contact"><button>Check out the entire range </button></a>
                                 </div>
                             </div>
                         </div>
@@ -97,7 +97,7 @@ new WOW().init();
                             <div class="col-md-6">
                                 <div class="banner-head">A tailor-made management training solution.</div>
                                 <div class="primary-button">
-                                    <a href="contact"><button>Make Enquiries <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                                    <a href="contact"><button>Make Enquiries </button></a>
                                 </div>
                             </div>
                         </div>
@@ -111,7 +111,7 @@ new WOW().init();
                             <div class="col-md-6">
                                 <div class="banner-head">One-on-one Coaching support.</div>
                                 <div class="primary-button">
-                                    <a href="contact"><button>Make Enquiries <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                                    <a href="contact"><button>Make Enquiries </button></a>
                                 </div>
                             </div>
                         </div>
@@ -137,7 +137,7 @@ new WOW().init();
 
                     <p>Our courses are expert-led and designed for effective solutions to your business challenges. Emece Solutions also has the capacity to deliver training and customized on the job solutions that suit your organisation at various locations in Nigeria and across the world. We serve numerous markets worldwide including the Middle East, Africa, Europe and Far East Asia.</p> <br>
                     <div class="secondary-button">
-                        <a href="contact"><button>LET'S GET STARTED <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                        <a href="contact"><button>LET'S GET STARTED </button></a>
                     </div>
                 </div>
             </div>
@@ -154,7 +154,7 @@ new WOW().init();
                     <div class="clientele-left-head">Our Clientele</div>
                     <p>Emece Solutions Limited has established itself as the service provider of choice for hundreds of such organizations all over the world seeking sustainable solutions to their management challenges.</p>  
                     <div class="secondary-button">
-                        <a href="contact"><button>EXPLORE OUR CLIENT PROFILE <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                        <a href="contact"><button>EXPLORE OUR CLIENT PROFILE </button></a>
                     </div>  
                 </div>
             </div>
@@ -177,7 +177,7 @@ new WOW().init();
                 <div class="home-provide-head">We provide services to keep you ahead in a competitive market.</div>
                 <p>Emece Solutions Limited services are delivered by practising Business and Management Consultants possessing extensive experience in their respective areas of expertise. Our consultants will take the time to develop a sound understanding of your development needs, and the service delivery will accordingly be customized to address your specific learning objectives.</p>
                 <div class="secondary-button">
-                    <a href="contact"><button>GET IN TOUCH WITH US <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                    <a href="contact"><button>GET IN TOUCH WITH US </button></a>
                 </div>
             </div>
         </div>

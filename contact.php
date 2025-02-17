@@ -380,7 +380,7 @@ new WOW().init();
                         <textarea id="messageName" name="messageName" rows="5" placeholder="Comments"></textarea>
                     </div>
                     <div class="secondary-button">
-                        <a href=""><button>SUBMIT <img src="./dist/images/fa-btn.png" class="img-fluid"></button></a>
+                        <a href=""><button>SUBMIT </button></a>
                     </div>
                 </div>
                 </div>
