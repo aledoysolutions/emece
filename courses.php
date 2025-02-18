@@ -104,7 +104,7 @@ new WOW().init();
             <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img1.png" class="img-fluid">
+                        <img src="./dist/images/soft_skills.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Soft Skills’ Operations</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
@@ -114,7 +114,7 @@ new WOW().init();
             <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img2.png" class="img-fluid">
+                        <img src="./dist/images/human-resources.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Human Resources Management</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
@@ -124,7 +124,7 @@ new WOW().init();
             <div class="col-md-4">
                 <div class="home-empowering-row">
                     <div class="home-empowering-row-img">
-                        <img src="./dist/images/emp-img3.png" class="img-fluid">
+                        <img src="./dist/images/public-relations.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Public Relations and Service Delivery</div>
                     <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
