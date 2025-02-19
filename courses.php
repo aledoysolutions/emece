@@ -77,7 +77,7 @@ new WOW().init();
                         <img src="./dist/images/emp-img1.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Management and Leadership</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
+                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
                     <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div>
@@ -87,7 +87,7 @@ new WOW().init();
                         <img src="./dist/images/emp-img2.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Digital Transformation and Change Management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
+                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
                     <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div>
@@ -97,7 +97,7 @@ new WOW().init();
                         <img src="./dist/images/emp-img3.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Business Development and Project Management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
+                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
                     <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div>
@@ -107,7 +107,7 @@ new WOW().init();
                         <img src="./dist/images/soft_skills.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Soft Skills’ Operations</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
+                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
                     <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div>
@@ -117,7 +117,7 @@ new WOW().init();
                         <img src="./dist/images/human-resources.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Human Resources Management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
+                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
                     <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div>
@@ -127,7 +127,7 @@ new WOW().init();
                         <img src="./dist/images/public-relations.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Public Relations and Service Delivery</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
+                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
                     <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div>
@@ -137,7 +137,7 @@ new WOW().init();
                         <img src="./dist/images/emp-img1.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Service Delivery</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
+                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
                     <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div> -->
@@ -147,7 +147,7 @@ new WOW().init();
                         <img src="./dist/images/emp-img2.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Leadership and Change management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
+                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
                     <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div> -->
@@ -157,7 +157,7 @@ new WOW().init();
                         <img src="./dist/images/emp-img3.png" class="img-fluid">                        
                     </div>
                     <div class="home-empowering-row-head">Hospitality and Retail Management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
+                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
                     <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div> -->
@@ -167,7 +167,7 @@ new WOW().init();
                         <img src="./dist/images/emp-img1.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Project and Programme Management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
+                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
                     <a href="contact">MAKE ENQUIRIES </a>
                 </div>
             </div> -->
@@ -177,7 +177,7 @@ new WOW().init();
                         <img src="./dist/images/emp-img2.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Secretaries and Administrative Management</div>
-                    <p>We offer Strategic Management courses to experienced strategists who wish to gain a modern understanding of strategic management.</p>
+                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
                     <a href="contact">MAKE ENQUIRIES </a>
                 </div> -->
             </div>

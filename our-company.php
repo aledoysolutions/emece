@@ -70,7 +70,7 @@ new WOW().init();
         <div class="row">
             <div class="col-md-7">
                 <div class="home-about-left">
-                    <img src="./dist/images/home-img.png" class="img-fluid">
+                    <img src="./dist/images/about-img33.png" class="img-fluid">
                 </div>
             </div>
             <div class="col-md-5">

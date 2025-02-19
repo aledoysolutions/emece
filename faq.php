@@ -143,20 +143,6 @@ new WOW().init();
                         </div>
                     </div>                    
                 </div> 
-                <!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-                    <div class="panel panel-default">
-                        <div class="panel-heading" role="tab" id="headingOne5">
-                            <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne5" aria-expanded="true" aria-controls="collapseOne">
-                                How is the training delivered?
-                                </a>
-                            </h4>
-                        </div>
-                        <div id="collapseOne5" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne5">
-                            <div class="panel-body">Lorem ipsum dolor sit amet consectetur. Ut in et lectus etiam mattis dolor. Turpis dictumst tellus egestas eget pulvinar dui lectus egestas. Viverra sit vivamus sit urna pharetra tincidunt in. Tempus odio blandit aliquam 
-                        </div>
-                    </div>                    
-                </div>  -->
             </div>
         </div>
     </div>

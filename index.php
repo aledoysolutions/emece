@@ -77,7 +77,7 @@ new WOW().init();
                 </div>
             </div>
             <!-- <div class="carousel-item col-md-12">
-                <div class="card" style="background-image: url(./dist/images/banner-img2.png); background-repeat: no-repeat; background-size: cover;">
+                <div class="card" style="background-image: url(./dist/images/banner22.png); background-repeat: no-repeat; background-size: cover;">
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-7">
@@ -91,7 +91,7 @@ new WOW().init();
                 </div>
             </div> -->
             <div class="carousel-item col-md-12">
-                <div class="card" style="background-image: url(./dist/images/banner-img3.png); background-repeat: no-repeat; background-size: cover;">
+                <div class="card" style="background-image: url(./dist/images/banner33.png); background-repeat: no-repeat; background-size: cover;">
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-6">
@@ -105,7 +105,7 @@ new WOW().init();
                 </div>
             </div>
             <div class="carousel-item col-md-12">
-                <div class="card" style="background-image: url(./dist/images/banner-img4.png); background-repeat: no-repeat; background-size: cover;">
+                <div class="card" style="background-image: url(./dist/images/banner44.png); background-repeat: no-repeat; background-size: cover;">
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-6">
