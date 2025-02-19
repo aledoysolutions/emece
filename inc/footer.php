@@ -6,14 +6,14 @@
                     <a href="./"><img src="./dist/images/footer-logo.png" class="img-fluid"></a>
                 </div>
                 <p>Emece Solutions is a leader in providing transformational learning and peak performance solutions. We have successfully designed a ‘one stop shop’ for all your training and human capacity development needs.</p>
-                <div class="navTop-row-right">
+                <!-- <div class="navTop-row-right">
                     <a href=""><img src="./dist/images/fa-facebook.png" class="img-fluid"></a>
                     <a href=""><img src="./dist/images/fa-x.png" class="img-fluid"></a>
                     <a href=""><img src="./dist/images/fa-instagram.png" class="img-fluid"></a>
                     <a href=""><img src="./dist/images/fa-youtube.png" class="img-fluid"></a>
                     <a href=""><img src="./dist/images/fa-whatsapp.png" class="img-fluid"></a>
                     <a href=""><img src="./dist/images/fa-link.png" class="img-fluid"></a>
-                </div>
+                </div> -->
             </div>
             <div class="col-md-3 footer-row1">
                 <h5>Top courses</h5>
