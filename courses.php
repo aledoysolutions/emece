@@ -77,8 +77,8 @@ new WOW().init();
                         <img src="./dist/images/emp-img1.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Management and Leadership</div>
-                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
-                    <a href="contact">MAKE ENQUIRIES </a>
+                    <p>Develop essential leadership skills to inspire teams and drive organizational success.</p>
+                    <a href="contact">Make enquiries </a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -87,8 +87,8 @@ new WOW().init();
                         <img src="./dist/images/emp-img2.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Digital Transformation and Change Management</div>
-                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
-                    <a href="contact">MAKE ENQUIRIES </a>
+                    <p>Navigate digital innovation and manage change effectively in a fast-evolving business landscape.                    </p>
+                    <a href="contact">Make enquiries </a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -97,8 +97,8 @@ new WOW().init();
                         <img src="./dist/images/emp-img3.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Business Development and Project Management</div>
-                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
-                    <a href="contact">MAKE ENQUIRIES </a>
+                    <p>Master strategies to grow businesses and execute projects efficiently from start to finish.</p>
+                    <a href="contact">Make enquiries </a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -107,8 +107,8 @@ new WOW().init();
                         <img src="./dist/images/soft_skills.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Soft Skills’ Operations</div>
-                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
-                    <a href="contact">MAKE ENQUIRIES </a>
+                    <p>Enhance communication, teamwork, and operational efficiency for professional excellence.                    </p>
+                    <a href="contact">Make enquiries </a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -117,8 +117,8 @@ new WOW().init();
                         <img src="./dist/images/human-resources.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Human Resources Management</div>
-                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
-                    <a href="contact">MAKE ENQUIRIES </a>
+                    <p>Learn best practices in talent acquisition, employee engagement, and workplace management.                    </p>
+                    <a href="contact">Make enquiries </a>
                 </div>
             </div>
             <div class="col-md-4">
@@ -127,8 +127,8 @@ new WOW().init();
                         <img src="./dist/images/public-relations.png" class="img-fluid">
                     </div>
                     <div class="home-empowering-row-head">Public Relations and Service Delivery</div>
-                    <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
-                    <a href="contact">MAKE ENQUIRIES </a>
+                    <p>Build strong brand reputation and deliver exceptional customer experiences.</p>
+                    <a href="contact">Make enquiries </a>
                 </div>
             </div>
             <!-- <div class="col-md-4">
@@ -138,7 +138,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Service Delivery</div>
                     <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
-                    <a href="contact">MAKE ENQUIRIES </a>
+                    <a href="contact">Make enquiries </a>
                 </div>
             </div> -->
             <!-- <div class="col-md-4">
@@ -148,7 +148,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Leadership and Change management</div>
                     <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
-                    <a href="contact">MAKE ENQUIRIES </a>
+                    <a href="contact">Make enquiries </a>
                 </div>
             </div> -->
             <!-- <div class="col-md-4">
@@ -158,7 +158,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Hospitality and Retail Management</div>
                     <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
-                    <a href="contact">MAKE ENQUIRIES </a>
+                    <a href="contact">Make enquiries </a>
                 </div>
             </div> -->
             <!-- <div class="col-md-4">
@@ -168,7 +168,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Project and Programme Management</div>
                     <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
-                    <a href="contact">MAKE ENQUIRIES </a>
+                    <a href="contact">Make enquiries </a>
                 </div>
             </div> -->
             <!-- <div class="col-md-4">
@@ -178,7 +178,7 @@ new WOW().init();
                     </div>
                     <div class="home-empowering-row-head">Secretaries and Administrative Management</div>
                     <p>We provide Training and Consulting Solutions for experienced professionals seeking a modern approach to management.</p>
-                    <a href="contact">MAKE ENQUIRIES </a>
+                    <a href="contact">Make enquiries </a>
                 </div> -->
             </div>
         </div>

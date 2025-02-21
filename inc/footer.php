@@ -52,7 +52,7 @@
                 <h5>Newsletter</h5>
                 <p>Get the latest updates about ESL, access to our most exclusive offers and thought leadership articles.</p>
                 <form action="#" method="post">
-                    <!-- <input type="text" name="email" placeholder="Name"> -->
+                    <input type="text" name="email" placeholder="Name">
                     <input type="email" name="email" placeholder="Enter email">
                     <button type="submit">SUBSCRIBE </button>
                 </form>

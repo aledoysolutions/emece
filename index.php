@@ -69,7 +69,7 @@ new WOW().init();
                             <div class="col-md-7">
                                 <div class="banner-head">10 Management Courses ranging from 1-day to 10-weeks in duration.</div>
                                 <div class="primary-button">
-                                    <a href="contact"><button>Make Enquiries </button></a>
+                                    <a href="contact"><button>Make enquiries </button></a>
                                 </div>
                             </div>
                         </div>
@@ -97,7 +97,7 @@ new WOW().init();
                             <div class="col-md-6">
                                 <div class="banner-head">A tailor-made management training solution.</div>
                                 <div class="primary-button">
-                                    <a href="contact"><button>Make Enquiries </button></a>
+                                    <a href="contact"><button>Make enquiries </button></a>
                                 </div>
                             </div>
                         </div>
@@ -111,7 +111,7 @@ new WOW().init();
                             <div class="col-md-6">
                                 <div class="banner-head">One-on-one Coaching support.</div>
                                 <div class="primary-button">
-                                    <a href="contact"><button>Make Enquiries </button></a>
+                                    <a href="contact"><button>Make enquiries </button></a>
                                 </div>
                             </div>
                         </div>
@@ -153,9 +153,9 @@ new WOW().init();
                 <div class="clientele-left">
                     <div class="clientele-left-head">Our Clientele</div>
                     <p>Emece Solutions Limited has established itself as the service provider of choice for hundreds of such organizations all over the world seeking sustainable solutions to their management challenges.</p>  
-                    <div class="secondary-button">
+                    <!-- <div class="secondary-button">
                         <a href="contact"><button>EXPLORE OUR CLIENT PROFILE </button></a>
-                    </div>  
+                    </div>   -->
                 </div>
             </div>
             <div class="col-md-1"></div>
