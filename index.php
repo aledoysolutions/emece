@@ -151,8 +151,8 @@ new WOW().init();
         <div class="row">
             <div class="col-md-6">
                 <div class="clientele-left">
-                    <div class="clientele-left-head">Our Clientele</div>
-                    <p>Emece Solutions Limited has established itself as the service provider of choice for hundreds of such organizations all over the world seeking sustainable solutions to their management challenges.</p>  
+                    <div class="clientele-left-head">Our Client</div>
+                    <p>Emece Solutions has established itself as the service provider of choice for hundreds of such organizations all over the world seeking sustainable solutions to their management challenges.</p>  
                     <!-- <div class="secondary-button">
                         <a href="contact"><button>EXPLORE OUR CLIENT PROFILE </button></a>
                     </div>   -->
@@ -175,7 +175,7 @@ new WOW().init();
         <div class="row">
             <div class="col-md-5">
                 <div class="home-provide-head">We provide services to keep you ahead in a competitive market.</div>
-                <p>Emece Solutions Limited services are delivered by practising Business and Management Consultants possessing extensive experience in their respective areas of expertise. Our consultants will take the time to develop a sound understanding of your development needs, and the service delivery will accordingly be customized to address your specific learning objectives.</p>
+                <p>Emece Solutions services are delivered by practising Business and Management Consultants possessing extensive experience in their respective areas of expertise. Our consultants will take the time to develop a sound understanding of your development needs, and the service delivery will accordingly be customized to address your specific learning objectives.</p>
                 <div class="secondary-button">
                     <a href="contact"><button>GET IN TOUCH WITH US </button></a>
                 </div>

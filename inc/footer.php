@@ -19,10 +19,13 @@
                 <h5>Top courses</h5>
                 <ul>
                     <li><a href="contact">Strategic Management</a></li>
-                    <li><a href="contact">Corporate Governance</a></li>
+                    <li><a href="contact">Project and Programme</a></li>
+                    <li><a href="contact">Procurement and Contract</a></li>
+                    <li><a href="contact">Hospitality</a></li>
+                    <!-- <li><a href="contact">Corporate Governance</a></li> -->
                     <li><a href="contact">Operations Management</a></li>
                     <li><a href="contact">Management Skills</a></li>
-                    <li><a href="contact">Quality Management</a></li>
+                    <!-- <li><a href="contact">Quality Management</a></li> -->
                 </ul>
             </div>
             <div class="col-md-3 footer-row2">
@@ -61,7 +64,7 @@
         <div class="footer-line"></div>
         <div class="footer-copy">
             <div class="footer-copy-left">
-            &copy; Copyright <?php echo date("Y"); ?> Emece Solutions Limited. All Rights Reserved
+            &copy; Copyright <?php echo date("Y"); ?> Emece Solutions. All Rights Reserved
             </div>
             <div class="footer-copy-right">
                 <a href="#">Key Policies</a> | <a href="#">Privacy & Cookie policy</a> | <a href="#">Sitemap</a>
