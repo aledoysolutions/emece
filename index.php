@@ -236,7 +236,7 @@ new WOW().init();
                     <div class="home-counts-row-icon">
                         <img src="./dist/images/count-icon1.png" class="img-fluid">
                         <div class="home-counters">
-                        <div class="counter-text" data-number="1000">1000</div>
+                        <div class="number" id="number1">1000</div>
                             <span>+</span>
                         </div>
                         <div class="home-counters-sub">Delegates since 2018</div>
@@ -248,7 +248,7 @@ new WOW().init();
                     <div class="home-counts-row-icon">
                         <img src="./dist/images/count-icon2.png" class="img-fluid">
                         <div class="home-counters">
-                            <div class="counter-text" data-number="400">400</div>
+                            <div class="number" id="number2">400</div>
                         </div>
                         <div class="home-counters-sub">Client Organizations</div>
                     </div>
@@ -259,7 +259,7 @@ new WOW().init();
                     <div class="home-counts-row-icon">
                         <img src="./dist/images/count-icon3.png" class="img-fluid">
                         <div class="home-counters">
-                            <div class="counter-text" data-number="74">74</div>
+                            <div class="number" id="number3">74</div>
                         </div>
                         <div class="home-counters-sub">Countries across the globe</div>
                     </div>
@@ -270,32 +270,29 @@ new WOW().init();
 </div>
 
 <script>
-    let totalNumber = document.querySelectorAll('.counter-text');
-let getNumber = Array.from(totalNumber);
+    function animateNumber(elementId, targetNumber, duration) {
+    let start = 0;
+    const increment = targetNumber / (duration / 16); // 60 FPS
+    const element = document.getElementById(elementId);
 
-getNumber.map((viewNumber) => {
-    console.log(viewNumber.dataset.number);
-    let startCount = 0;
-    let targetNumber = parseInt(viewNumber.dataset.number, 10);
-    let increment = Math.ceil(targetNumber / 150);
-
-    let counterUP = () => {
-        startCount += increment;
-        if (startCount > targetNumber) {
-            startCount = targetNumber; // Asegura que no sobrepase el número objetivo
+    function updateNumber() {
+        start += increment;
+        if (start < targetNumber) {
+            element.textContent = Math.ceil(start);
+            requestAnimationFrame(updateNumber);
+        } else {
+            element.textContent = targetNumber;
         }
-        viewNumber.innerHTML = `${startCount} `; 
-        if (startCount == targetNumber) {
-            clearInterval(countStop);
-        }
-    };
+    }
 
-    let countStop = setInterval(() => {
-        counterUP();
-    }, 20); // Ajusta el intervalo para controlar la velocidad del conteo
-});
+    updateNumber();
+}
+
+// Animate the numbers
+animateNumber("number1", 1000, 3000); // 3 seconds for 1000
+animateNumber("number2", 400, 2000);  // 2 seconds for 400
+animateNumber("number3", 74, 1000);   // 1 second for 74
 </script>
-
 
 
 <!-- <div class="container">
