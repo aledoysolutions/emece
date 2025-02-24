@@ -236,7 +236,7 @@ new WOW().init();
                     <div class="home-counts-row-icon">
                         <img src="./dist/images/count-icon1.png" class="img-fluid">
                         <div class="home-counters">
-                        <div class="number" id="number1">1000</div>
+                            <div class="card" id="card1">1</div>
                             <span>+</span>
                         </div>
                         <div class="home-counters-sub">Delegates since 2018</div>
@@ -248,7 +248,7 @@ new WOW().init();
                     <div class="home-counts-row-icon">
                         <img src="./dist/images/count-icon2.png" class="img-fluid">
                         <div class="home-counters">
-                            <div class="number" id="number2">400</div>
+                            <div class="card" id="card2">1</div>
                         </div>
                         <div class="home-counters-sub">Client Organizations</div>
                     </div>
@@ -259,7 +259,7 @@ new WOW().init();
                     <div class="home-counts-row-icon">
                         <img src="./dist/images/count-icon3.png" class="img-fluid">
                         <div class="home-counters">
-                            <div class="number" id="number3">74</div>
+                            <div class="card" id="card3">1</div>
                         </div>
                         <div class="home-counters-sub">Countries across the globe</div>
                     </div>
@@ -269,30 +269,24 @@ new WOW().init();
     </div>
 </div>
 
+
 <script>
-    function animateNumber(elementId, targetNumber, duration) {
-    let start = 0;
-    const increment = targetNumber / (duration / 16); // 60 FPS
-    const element = document.getElementById(elementId);
-
-    function updateNumber() {
-        start += increment;
-        if (start < targetNumber) {
-            element.textContent = Math.ceil(start);
-            requestAnimationFrame(updateNumber);
-        } else {
-            element.textContent = targetNumber;
+        function countUp(elementId, target) {
+            let count = 1;
+            const interval = setInterval(() => {
+                if (count < target) {
+                    count++;
+                    document.getElementById(elementId).textContent = count;
+                } else {
+                    clearInterval(interval);
+                }
+            }, 5);
         }
-    }
 
-    updateNumber();
-}
-
-// Animate the numbers
-animateNumber("number1", 1000, 3000); // 3 seconds for 1000
-animateNumber("number2", 400, 2000);  // 2 seconds for 400
-animateNumber("number3", 74, 1000);   // 1 second for 74
-</script>
+        countUp("card1", 1000);
+        countUp("card2", 400);
+        countUp("card3", 74);
+    </script>
 
 
 <!-- <div class="container">

@@ -1689,9 +1689,16 @@ html {
     margin-bottom: 30px;
 }
 
-/* .clientele-right img {
-    width: 80%;
-} */
+.home-counters .card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 58.7px;
+    background: transparent;
+    border: none;
+}
 
 
 
