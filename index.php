@@ -236,7 +236,7 @@ new WOW().init();
                     <div class="home-counts-row-icon">
                         <img src="./dist/images/count-icon1.png" class="img-fluid">
                         <div class="home-counters">
-                            <div class="stat-count">1000</div>
+                        <div class="counter-text" data-number="1000">1000</div>
                             <span>+</span>
                         </div>
                         <div class="home-counters-sub">Delegates since 2018</div>
@@ -248,7 +248,7 @@ new WOW().init();
                     <div class="home-counts-row-icon">
                         <img src="./dist/images/count-icon2.png" class="img-fluid">
                         <div class="home-counters">
-                            <div class="stat-count">400</div>
+                            <div class="counter-text" data-number="400">400</div>
                         </div>
                         <div class="home-counters-sub">Client Organizations</div>
                     </div>
@@ -259,7 +259,7 @@ new WOW().init();
                     <div class="home-counts-row-icon">
                         <img src="./dist/images/count-icon3.png" class="img-fluid">
                         <div class="home-counters">
-                            <div class="stat-count">74</div>
+                            <div class="counter-text" data-number="74">74</div>
                         </div>
                         <div class="home-counters-sub">Countries across the globe</div>
                     </div>
@@ -269,26 +269,34 @@ new WOW().init();
     </div>
 </div>
 
-<script>    
-	(function($) {
-		"use strict";
-		function count($this){
-		var current = parseInt($this.html(), 10);
-		current = current + 1; /* Where 50 is increment */	
-		$this.html(++current);
-			if(current > $this.data('count')){
-				$this.html($this.data('count'));
-			} else {    
-				setTimeout(function(){count($this)}, 50);
-			}
-		}        	
-		$(".stat-count").each(function() {
-		  $(this).data('count', parseInt($(this).html(), 10));
-		  $(this).html('0');
-		  count($(this));
-		});
-   })(jQuery);
+<script>
+    let totalNumber = document.querySelectorAll('.counter-text');
+let getNumber = Array.from(totalNumber);
+
+getNumber.map((viewNumber) => {
+    console.log(viewNumber.dataset.number);
+    let startCount = 0;
+    let targetNumber = parseInt(viewNumber.dataset.number, 10);
+    let increment = Math.ceil(targetNumber / 150);
+
+    let counterUP = () => {
+        startCount += increment;
+        if (startCount > targetNumber) {
+            startCount = targetNumber; // Asegura que no sobrepase el número objetivo
+        }
+        viewNumber.innerHTML = `${startCount} `; 
+        if (startCount == targetNumber) {
+            clearInterval(countStop);
+        }
+    };
+
+    let countStop = setInterval(() => {
+        counterUP();
+    }, 20); // Ajusta el intervalo para controlar la velocidad del conteo
+});
 </script>
+
+
 
 <!-- <div class="container">
     <div class="home-insight-row">
