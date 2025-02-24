@@ -46,7 +46,7 @@
                     <div class="footer-contact1">
                         <img src="./dist/images/fa-email.png" class="img-fluid">
                     </div>
-                    <div class="footer-contact2">contact@ESL.co.uk</div>
+                    <div class="footer-contact2">info@emecesolutions.com </div>
                 </div>
                 <!-- <div class="footer-contact-sub">Accreditation</div>
                 <img src="./dist/images/footer-img.png" class="img-fluid"> -->

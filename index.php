@@ -236,7 +236,7 @@ new WOW().init();
                     <div class="home-counts-row-icon">
                         <img src="./dist/images/count-icon1.png" class="img-fluid">
                         <div class="home-counters">
-                            <div class="card" id="card1">1</div>
+                            <div id="statCounter-figure" class="value" akhi="1000">1</div>
                             <span>+</span>
                         </div>
                         <div class="home-counters-sub">Delegates since 2018</div>
@@ -248,7 +248,7 @@ new WOW().init();
                     <div class="home-counts-row-icon">
                         <img src="./dist/images/count-icon2.png" class="img-fluid">
                         <div class="home-counters">
-                            <div class="card" id="card2">1</div>
+                            <div id="statCounter-figure" class="value" akhi="400">1</div>
                         </div>
                         <div class="home-counters-sub">Client Organizations</div>
                     </div>
@@ -259,7 +259,7 @@ new WOW().init();
                     <div class="home-counts-row-icon">
                         <img src="./dist/images/count-icon3.png" class="img-fluid">
                         <div class="home-counters">
-                            <div class="card" id="card3">1</div>
+                            <div id="statCounter-figure" class="value" akhi="74">1</div>
                         </div>
                         <div class="home-counters-sub">Countries across the globe</div>
                     </div>
@@ -269,33 +269,7 @@ new WOW().init();
     </div>
 </div>
 
-<script>
-    function countUp(elementId, target, duration = 2000) {
-            let start = 1;
-            const element = document.getElementById(elementId);
-            if (!element) return;
-            
-            const startTime = performance.now();
-
-            function updateCount(currentTime) {
-                const elapsedTime = currentTime - startTime;
-                const progress = Math.min(elapsedTime / duration, 1);
-                const value = Math.floor(progress * target);
-
-                element.textContent = value;
-
-                if (value < target) {
-                    requestAnimationFrame(updateCount);
-                }
-            }
-
-            requestAnimationFrame(updateCount);
-        }
-
-        countUp("card1", 1000);
-        countUp("card2", 400);
-        countUp("card3", 74);
-</script>
+<script src="./counters.js"></script>
 
 
 <!-- <div class="container">

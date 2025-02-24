@@ -5,7 +5,7 @@
         <div class="navTop-row-left">
           <div class="navTop-row-leftA">
             <img src="./dist/images/fa-email.png" class="img-fluid">
-            contact@ESL.co.uk
+            info@emecesolutions.com 
           </div>
           <div class="navTop-row-leftB">
             <img src="./dist/images/nav-line.png" class="img-fluid">
